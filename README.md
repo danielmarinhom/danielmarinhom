@@ -1,11 +1,11 @@
-CREATE TABLE perfil (
-    id INT PRIMARY KEY,
-    name VARCHAR(50),
-    age INT,
-    country VARCHAR(50),
-    pronouns VARCHAR(20),
-    skills TEXT
+CREATE TABLE perfil (<br>
+    id INT PRIMARY KEY,<br>
+    name VARCHAR(50),<br>
+    age INT,<br>
+    country VARCHAR(50),<br>
+    pronouns VARCHAR(20),<br>
+    skills TEXT<br>
 );
 
-INSERT INTO perfil (name, age, country, pronouns, skills)
+INSERT INTO perfil (name, age, country, pronouns, skills)<br>
 VALUES ('Arthur', 16, 'Brazil', 'he/him', 'HTML, CSS, Javascript, C++, SQL');
