@@ -1,2 +1,2 @@
-INSERT INTO perfil (name, age, country, pronouns, skills)<br>
-VALUES ('Daniel', 16, 'Brazil', 'he/him', 'HTML, CSS, Javascript, C++, SQL');
+<b>INSERT INTO</b> perfil (name, country, skills)<br>
+<b>VALUES</b> ('Daniel', 'Brazil', 'HTML, CSS, Javascript, C++, SQL');
