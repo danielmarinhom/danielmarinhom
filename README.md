@@ -1,10 +1,10 @@
 CREATE TABLE perfil (
-    &nbspid INT PRIMARY KEY,
-    &nbspname VARCHAR(50),
-    &nbspage INT,
-    &nbspcountry VARCHAR(50),
-    &nbsppronouns VARCHAR(20),
-    &nbspskills TEXT
+    &nbsp id INT PRIMARY KEY,
+    &nbsp name VARCHAR(50),
+    &nbsp age INT,
+    &nbsp country VARCHAR(50),
+    &nbsp pronouns VARCHAR(20),
+    &nbsp skills TEXT
 );
 
 INSERT INTO perfil (name, age, country, pronouns, skills)
