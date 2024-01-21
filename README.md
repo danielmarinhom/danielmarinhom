@@ -1,5 +1,5 @@
 CREATE TABLE perfil (<br>
-    id INT PRIMARY KEY,<br>
+    <hspace>id INT PRIMARY KEY,<br>
     name VARCHAR(50),<br>
     country VARCHAR(50),<br>
     skills TEXT<br>
