@@ -1,4 +1,4 @@
-<h1>CREATE TABLE perfil</h1> (<br>
+<h2>CREATE TABLE perfil</h2> (<br>
     <h3>id INT PRIMARY KEY,</h3>
     <h3>name VARCHAR(50),</h3>
     <h3>country VARCHAR(50),</h3>
