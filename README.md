@@ -1,2 +1,2 @@
 <h3>INSERT INTO</b> perfil (name, country, skills)<br>
-VALUES(<u>'Daniel'</u>, <u>'Brazil'</u>, <u>'HTML, CSS, Javascript, C++, SQL'</u>);
+VALUES(<em>'Daniel'</em>, <em>'Brazil'</em>, <em>'HTML, CSS, Javascript, C++, SQL'</em>);
