@@ -19,7 +19,6 @@
 <h1>About Me:</h1>
     <h3>Currently on High School at Etec Prof. Horacio</h3>
     <ul>
-         <a href="https://www.instagram.com/dankkklk"><img align="right" alt="coding" width="200" src="PNG Logo Printh 3D.png"> </a>
         <li>
             <strong>🌐 Main Experiences:</strong>
             <ul>
