@@ -29,7 +29,7 @@
                 <li>👨‍💻 back-end programming</li>
                 <li>🖥️ db science</li>
                 <li>📱 mobile applications</li>
-                <li>🖥️ artifficial intelligence</li>
+                <li>🖥️ artificial intelligence</li>
             </ul>
         </li>
     </ul>
