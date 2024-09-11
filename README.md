@@ -22,10 +22,10 @@
         <li>
             <strong>🌐 Main Experiences:</strong>
             <ul>
-                <li> back-end programming</li>
-                <li> db science</li>
+                <li> back-end</li>
+                <li> competitive programming</li>
                 <li> mobile applications</li>
-                <li> artificial intelligence</li>
+                <li> artificial intelligence & machine learning</li>
             </ul>
         </li>
     </ul>
