@@ -2,13 +2,15 @@
 ```python
 daniel = {
     "location": "Brazil",
-    "university": "POLI-USP",
+    "university": "USP",
     "major": "Electrical Engineering",
     "languages": ["C", "C++", "Python"],
     "likes": [
         "low level programming",
         "algorithms",
         "systems",
+        "circuits",
+        "machine learning",
         "math"
     ]
 }
